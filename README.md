@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=P8Kt6Abq_rM
 
 https://wizardforcel.gitbooks.io/dm-algo-top10/content/pagerank.html
 
+https://zhuanlan.zhihu.com/p/20201748
+
 
 ### 代码实现
 
